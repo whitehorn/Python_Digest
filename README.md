@@ -15,6 +15,6 @@ URL: [Заметки по программированию в науках о З
 
 ### Выпуски
 
-+ [N0 Help!](http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/N001 Help.ipynb) - подборка ссылкок на учебные материалы и обучающие онлайн-курсы по python.
++ [N0 Help!](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/N001 Help.ipynb) - подборка ссылкок на учебные материалы и обучающие онлайн-курсы по python.
 
-+ [N1 Code python](http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/N1 Code python.ipynb) - почему следует начать программировать на python уже сегодня?
++ [N1 Code python](http://nbviewer.ipython.org/github/whitehorn/Python_Digest/blob/master/N1 Code python.ipynb) - почему следует начать программировать на python уже сегодня?
