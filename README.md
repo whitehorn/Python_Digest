@@ -2,8 +2,24 @@
 
 > Comprehensive guide for learning python programming language on russian.
 
-### ¬˚ÔÛÒÍË
+–ê–≤—Ç–æ—Ä: –®–∞–±–∞–Ω–æ–≤ –ü–∞–≤–µ–ª –ê–ª–µ–∫—Å–∞–Ω–¥—Ä–æ–≤–∏—á
 
-+ [N0 Help!](http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/N1 Code python.ipynb) - ÔÓ‰·ÓÍ‡ ÒÒ˚ÎÍÓÍ Ì‡ Û˜Â·Ì˚Â Ï‡ÚÂË‡Î˚ Ë Ó·Û˜‡˛˘ËÂ ÓÌÎ‡ÈÌ-ÍÛÒ˚ ÔÓ python.
+E-mail: pa.shabanov@gmail.com
 
-+ [N1 Code python](http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/N1 Code python.ipynb) - ÔÓ˜ÂÏÛ ÒÎÂ‰ÛÂÚ Ì‡˜‡Ú¸ ÔÓ„‡ÏÏËÓ‚‡Ú¸ Ì‡ python ÛÊÂ ÒÂ„Ó‰Ìˇ?
+URL: [–ó–∞–º–µ—Ç–∫–∏ –ø–æ –ø—Ä–æ–≥—Ä–∞–º–º–∏—Ä–æ–≤–∞–Ω–∏—é –≤ –Ω–∞—É–∫–∞—Ö –æ –ó–µ–º–ª–µ](http://geofortran.blogspot.ru/)
+
+–î–∞—Ç–∞ –ø–æ—Å–ª–µ–¥–Ω–µ–≥–æ –æ–±–Ω–æ–≤–ª–µ–Ω–∏—è: 10.02.2016
+
+–£–î–ö 004.432.2 python
+
+### –í—ã–ø—É—Å–∫–∏
+
+# Python_Digest
+
+> Comprehensive guide for learning python programming language on russian.
+
+### –í—ã–ø—É—Å–∫–∏
+
++ [N0 Help!](http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/N1 Code python.ipynb) - –ø–æ–¥–±–æ—Ä–∫–∞ —Å—Å—ã–ª–∫–æ–∫ –Ω–∞ —É—á–µ–±–Ω—ã–µ –º–∞—Ç–µ—Ä–∏–∞–ª—ã –∏ –æ–±—É—á–∞—é—â–∏–µ –æ–Ω–ª–∞–π–Ω-–∫—É—Ä—Å—ã –ø–æ python.
+
++ [N1 Code python](http://nbviewer.ipython.org/github/whitehorn/rus_python/blob/master/N1 Code python.ipynb) - –ø–æ—á–µ–º—É —Å–ª–µ–¥—É–µ—Ç –Ω–∞—á–∞—Ç—å –ø—Ä–æ–≥—Ä–∞–º–º–∏—Ä–æ–≤–∞—Ç—å –Ω–∞ python —É–∂–µ —Å–µ–≥–æ–¥–Ω—è?
