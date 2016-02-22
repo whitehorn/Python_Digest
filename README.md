@@ -12,6 +12,10 @@ URL: [Заметки по программированию в науках о З
 
 УДК 004.432.2 python
 
+### Тесты
+
++ [Установочный тест](https://stepic.org/lesson/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D1%81%D1%82-%D0%BF%D0%BE-python-24310/step/1?unit=undefined)
+
 ### Задания
 
 + [HW2 basics](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_2(18)_students.ipynb) - задание после второй недели.
