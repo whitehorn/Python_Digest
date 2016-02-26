@@ -20,6 +20,8 @@ URL: [Заметки по программированию в науках о З
 
 + [HW2 basics](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_2(18)_students.ipynb) - задание после второй недели.
 
++ [HW3 basics](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_3(25)_students.ipynb) - задание после третьей недели.
+
 ### Выпуски
 
 + [N0 Help!](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/N001 Help.ipynb) - подборка ссылкок на учебные материалы и обучающие онлайн-курсы по python.
