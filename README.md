@@ -18,9 +18,11 @@ URL: [Заметки по программированию в науках о З
 
 ### Задания
 
-+ [HW2 basics](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_2(18)_students.ipynb) - задание после второй недели.
++ [HW2 basics](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_2(18)_students.ipynb) - домашнее задание после второй недели.
 
-+ [HW3 lists](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_3(25)_students.ipynb) - задание после третьей недели.
++ [HW2 answers](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_2(18)_teacher.ipynb) - примеры выполнения домашнего задания после второй недели.
+
++ [HW3 lists](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_3(25)_students.ipynb) - домашнее задание после третьей недели.
 
 ### Выпуски
 
@@ -37,3 +39,8 @@ URL: [Заметки по программированию в науках о З
 + [N5 Data types](http://nbviewer.ipython.org/github/whitehorn/Python_Digest/blob/master/N5 Data types.ipynb) - стандартные типы данных в python.
 
 + [N6 Operations with base data types](http://nbviewer.ipython.org/github/whitehorn/Python_Digest/blob/master/N6 Operations with base data types.ipynb) - арифметические операции со стандартными типами данных.
+
+### Занятия
+
+3. [L3 Списки - теория](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L3 plan.ipynb) - теоретическое содержание третьего занятия "Списки".
+	+ [L3 Списки - практические примеры](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L3 practice.ipynb) - примеры и листинги к третьему занятию "Списки".
