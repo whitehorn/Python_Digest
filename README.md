@@ -20,7 +20,7 @@ URL: [Заметки по программированию в науках о З
 
 + [HW2 basics](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_2(18)_students.ipynb) - домашнее задание после второй недели.
 
-+ [HW2 answers](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_2(18)_teacher.ipynb) - примеры выполнения домашнего задания после второй недели.
+	+ [HW2 answers](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_2(18)_teacher.ipynb) - примеры выполнения домашнего задания после второй недели.
 
 + [HW3 lists](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_3(25)_students.ipynb) - домашнее задание после третьей недели.
 
