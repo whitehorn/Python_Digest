@@ -24,6 +24,10 @@ URL: [Заметки по программированию в науках о З
 
 + [HW3 lists](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_3(25)_students.ipynb) - домашнее задание после третьей недели.
 
+	+ [HW3 answers](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_3(25)_teacher.ipynb) - примеры выполнения домашнего задания после третьей недели.
+
++ [HW4 files & strings](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_4(03_03)_students.ipynb) - домашнее задание после четвёртой недели.
+
 ### Выпуски
 
 + [N0 Help!](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/N001 Help.ipynb) - подборка ссылкок на учебные материалы и обучающие онлайн-курсы по python.
@@ -44,3 +48,5 @@ URL: [Заметки по программированию в науках о З
 
 3. [L3 Списки - теория](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L3 plan.ipynb) - теоретическое содержание третьего занятия "Списки".
 	+ [L3 Списки - практические примеры](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L3 practice.ipynb) - примеры и листинги к третьему занятию "Списки".
+4. [L4 Файлы и строки - теория](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L4 plan.ipynb) - теоретическое содержание четвёртого занятия "Файлы и строки".
+	+ [L4 Файлы и строки - практические примеры](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L4 practice.ipynb) - примеры и листинги к четвёртому занятию "Файлы и строки".
