@@ -29,6 +29,8 @@ URL: [Заметки по программированию в науках о З
 	+ [HW3 answers](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_3(25)_teacher.ipynb) - примеры выполнения домашнего задания после третьей недели.
 
 + [HW4 files & strings](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_4(03_03)_students.ipynb) - домашнее задание после четвёртой недели.
+	
+	+ [HW4 answers](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_4(03_03)_teacher.ipynb) - примеры выполнения домашнего задания после четвёртой недели.
 
 ### Выпуски
 
