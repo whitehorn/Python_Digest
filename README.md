@@ -32,6 +32,8 @@ URL: [Заметки по программированию в науках о З
 	
 	+ [HW4 answers](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_4(03_03)_teacher.ipynb) - примеры выполнения домашнего задания после четвёртой недели.
 
++ [HW5 Total Recall](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_5(10_03)_students.ipynb) - домашнее задание после пятой недели.
+
 ### Выпуски
 
 + [N0 Help!](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/N001 Help.ipynb) - подборка ссылкок на учебные материалы и обучающие онлайн-курсы по python.
