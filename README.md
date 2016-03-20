@@ -34,6 +34,10 @@ URL: [Заметки по программированию в науках о З
 
 + [HW5 Total Recall](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_5(10_03)_students.ipynb) - домашнее задание после пятой недели.
 
+	+ [HW5 answers](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_5(10_03)_teacher.ipynb) - примеры выполнения домашнего задания после пятой недели.
+
++ [HW6 Functions](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_6(17_03)_students.ipynb) - домашнее задание после шестой недели.
+
 ### Выпуски
 
 + [N0 Help!](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/N001 Help.ipynb) - подборка ссылкок на учебные материалы и обучающие онлайн-курсы по python.
@@ -56,3 +60,7 @@ URL: [Заметки по программированию в науках о З
 	+ [L3 Списки - практические примеры](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L3 practice.ipynb) - примеры и листинги к третьему занятию "Списки".
 4. [L4 Файлы и строки - теория](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L4 plan.ipynb) - теоретическое содержание четвёртого занятия "Файлы и строки".
 	+ [L4 Файлы и строки - практические примеры](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L4 practice.ipynb) - примеры и листинги к четвёртому занятию "Файлы и строки".
+5. [L5 Повторение пройденного материалы]
+
+6. [L6 Функции и модули - теория](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L6 plan.ipynb) - теоретическое содержание шестого занятия "Функции и модули".
+	+ [L6 Функции и модули - практические примеры](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L6 practice.ipynb) - примеры и листинги к шестому занятию "Функции и модули".
