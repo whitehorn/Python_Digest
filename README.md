@@ -18,15 +18,6 @@ URL: [Заметки по программированию в науках о З
 
 + [Проверочный тест T1](https://stepic.org/lesson/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D1%81%D1%82-T1-24611/step/1?unit=undefined)
 
-### Ссылки на файлы, необходимые к практическим заданиям
-
-Занятие N8
-
-+ [NetCDF-файл "air.mon.mean.nc"](https://yadi.sk/d/Hx4bA9AMqbZrX);
-+ [Excel-файл ""](https://yadi.sk/i/y3uTdgrUqgsf7);
-+ [Описание формата netcdf - перевод официальной документации](https://yadi.sk/i/0vMFprWYqgsfV).
-
-
 ### Задания
 
 + [HW2 basics](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_2(18)_students.ipynb) - домашнее задание после второй недели.
@@ -75,3 +66,9 @@ URL: [Заметки по программированию в науках о З
 	+ [L6 Функции и модули - практические примеры](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L6 practice.ipynb) - примеры и листинги к шестому занятию "Функции и модули".
 
 8. [L8 Форматы данных MS Excel и NetCDF - практические примеры](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/L8 practice.ipynb) - примеры и листинги к восьмому занятию "Форматы данных".
+
+Ссылки на файлы, необходимые к практическим заданиям занятия N8:
+
+	+ [NetCDF-файл "air.mon.mean.nc"](https://yadi.sk/d/Hx4bA9AMqbZrX);
+	+ [Excel-файл ""](https://yadi.sk/i/y3uTdgrUqgsf7);
+	+ [Описание формата netcdf - перевод официальной документации](https://yadi.sk/i/0vMFprWYqgsfV).
