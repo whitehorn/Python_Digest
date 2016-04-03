@@ -38,6 +38,8 @@ URL: [Заметки по программированию в науках о З
 
 + [HW6 Functions](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_6(17_03)_students.ipynb) - домашнее задание после шестой недели.
 
++ [HW8 Functions](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/HW_8(31_03)_students.ipynb) - домашнее задание после восьмой недели.
+
 ### Выпуски
 
 + [N0 Help!](http://nbviewer.jupyter.org/github/whitehorn/Python_Digest/blob/master/N001 Help.ipynb) - подборка ссылкок на учебные материалы и обучающие онлайн-курсы по python.
